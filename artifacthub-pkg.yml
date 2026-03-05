@@ -9,7 +9,7 @@ description: >
   Install curated, battle-tested tools for CI/CD, observability, and GitOps
   delivery — all without leaving Headlamp.
 annotations:
-  headlamp/plugin/archive-url: "https://github.com/vks-devkit/vks-headlamp-plugin/vks-headlamp-plugin-0.1.0.tar.gz"
+  headlamp/plugin/archive-url: "https://raw.githubusercontent.com/vks-devkit/vks-headlamp-plugin/main/vks-headlamp-plugin-0.1.0.tar.gz"
   headlamp/plugin/archive-checksum: "SHA256:29336c8e4231cdb01c4f07af006553b9d35c435f2171ac5910f07f3b0d3de927"
   headlamp/plugin/version-compat: ">=0.40"
   headlamp/plugin/distro-compat: "in-cluster,web,desktop"
